@@ -1,0 +1,9 @@
+{
+  "name": "tele-notify",
+  "version": "1.0.0",
+  "description": "Báo qua Telegram khi Claude Code hoàn thành, cần bạn xử lý, hoặc chạm usage limit.",
+  "author": { "name": "You" },
+  "license": "MIT",
+  "keywords": ["notification", "telegram", "hooks"],
+  "category": "productivity"
+}

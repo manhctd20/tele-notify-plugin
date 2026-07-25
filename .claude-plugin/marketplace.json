@@ -1,0 +1,7 @@
+{
+  "name": "my-tools",
+  "owner": { "name": "You" },
+  "plugins": [
+    { "name": "tele-notify", "source": "./", "description": "Báo Telegram khi Claude Code xong / cần hỏi / chạm limit" }
+  ]
+}
